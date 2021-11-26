@@ -1,0 +1,18 @@
+{
+    "name": "spryker/nfq-base",
+    "description": "NFQ extend core of Spryker",
+    "autoload": {
+        "psr-4": {
+            "Nfq\\": "./src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tuan Phan",
+            "email": "minhtuan.phan@nfq.asia"
+        }
+    ],
+    "require": {
+        "spryker/kernel": "*"
+    }
+}
